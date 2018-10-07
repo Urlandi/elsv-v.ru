@@ -1,0 +1,42 @@
+baseURL = "http://www.elsv-v.ru/"
+languageCode = "ru-ru"
+title = "Каталог провайдеров Волгограда"
+
+theme = "hugo-xmin"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = false
+# footnotereturnlinkcontents = ""
+
+# [permalinks]
+#    post = "/post/:year/:month/:day/:slug/"
+#    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Каталог"
+    url = "/dir/"
+    weight = 2
+[[menu.main]]
+    name = "Карта"
+    url = "/links/"
+    weight = 3
+# [[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    weight = 4
+# [[menu.main]]
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 5
+[[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+
+[params]
+    description = "A website built through Hugo and XMin theme."
+    footer = "&copy; \"Каталог провайдеров Волгограда\" | [elsv-v.ru](http://www.elsv-v.ru)"
+
