@@ -32,11 +32,13 @@ preserveTaxonomyNames = false
 #    name = "Tags"
 #    url = "/tags/"
 #    weight = 5
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
+# [[menu.main]]
+#    name = "RSS"
+#    url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and XMin theme."
     footer = "&copy; \"Каталог провайдеров Волгограда\" | [elsv-v.ru](http://www.elsv-v.ru)"
 
+[blackfriday]
+  smartypants = false

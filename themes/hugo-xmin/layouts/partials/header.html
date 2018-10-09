@@ -6,10 +6,11 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
-    {{ partial "head_custom.html" . }}
+{{ partial "head_custom.html" . }}
   </head>
 
   <body>
+{{ partial "bodyhead_custom.html" . }}     
     <nav>
     <ul class="menu">
       {{ range .Site.Menus.main }}
