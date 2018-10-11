@@ -5,6 +5,7 @@ title = "Каталог провайдеров Волгограда"
 theme = "hugo-xmin"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+disableKinds = ["taxonomy", "taxonomyTerms", "RSS"]
 preserveTaxonomyNames = false
 footnotereturnlinkcontents = ""
 

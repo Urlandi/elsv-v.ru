@@ -6,20 +6,20 @@ title = "Учебник"
 
 ## Основы
 
- - [BGP](/wiki/guides/bgp) - как работает Интернет.
- - [STP](/wiki/guides/stp) - как обеспечивается надёжность сети, протокол связующего дерева.
- - [VLAN](/wiki/guides/vlan) - как разделяются данные внутри сети.
- - [Шейпер](/wiki/guides/shaper) - про ограничение скорости.
+ - [BGP](bgp) - как работает Интернет.
+ - [STP](stp) - как обеспечивается надёжность сети, протокол связующего дерева.
+ - [VLAN](vlan) - как разделяются данные внутри сети.
+ - [Шейпер](shaper) - про ограничение скорости.
 
 ## Руководства
 
- - [Поиск по RIPE DB](/wiki/guides/ripedb) - как искать информацию в базе данных RIPE.
- - [Что показывает traceroute](/wiki/guides/traceroute) - что покажет `traceroute`.
- - [Что показывает ipconfig](/wiki/guides/ipconfig) - что покажет `ipconfig`.
- - [Что показывает ping](/wiki/guides/ping) - что покажет `ping`.
- - [Что показывает ARP](/wiki/guides/arp) - что покажет `arp`.
- - [Looking glass](/wiki/guides/loogingglass) - использование `looking glass`.
- - [RIS](/wiki/guides/ris) - Routing Information Service, *был* хороший инструмент от RIPE.
+ - [Поиск по RIPE DB](ripedb) - как искать информацию в базе данных RIPE.
+ - [Что показывает traceroute](traceroute) - что покажет `traceroute`.
+ - [Что показывает ipconfig](ipconfig) - что покажет `ipconfig`.
+ - [Что показывает ping](ping) - что покажет `ping`.
+ - [Что показывает ARP](arp) - что покажет `arp`.
+ - [Looking glass](lookingglass) - использование `looking glass`.
+ - [RIS](ris) - Routing Information Service, **был** хороший инструмент от RIPE.
 
 ## Что почитать
 
