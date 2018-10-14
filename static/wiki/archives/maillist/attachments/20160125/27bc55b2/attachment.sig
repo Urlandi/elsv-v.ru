@@ -1,0 +1,7 @@
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iF4EAREIAAYFAlamG8EACgkQdX76wLloXuxpBwD/Qm2I+OzUL58G7rFZuWg93X7L
+sGvjMauWygEEuWk6gvcA/2Ym/g2D2sr8vTJlZSlLMuf4eDfDwBXh5Y7kdL9zTeNI
+=szoP
+-----END PGP SIGNATURE-----
