@@ -3,6 +3,7 @@ languageCode = "ru-ru"
 title = "Каталог провайдеров Волгограда"
 
 theme = "hugo-xmin"
+publishDir = "docs"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 disableKinds = ["taxonomy", "taxonomyTerms", "RSS"]
