@@ -40,7 +40,7 @@ footnotereturnlinkcontents = ""
 
 [params]
     description = "A website built through Hugo and XMin theme."
-    footer = "&copy; \"Каталог провайдеров Волгограда\" | [elsv-v.ru](https://elsv-v.ru)"
+    footer = "&copy; \"Каталог провайдеров Волгограда\" | [elsv-v.ru](https://elsv-v.ru/)"
 
 [blackfriday]
   smartypants = false
