@@ -18,7 +18,7 @@ title = "Главный каталог"
 |Квант-Телеком|[AS43727](https://stat.ripe.net/AS43727#tabId=routing)|https://kvant-telecom.ru/|
 |Магистраль|[92.39.105.24/30](https://stat.ripe.net/92.39.105.24%2F30#tabId=database), [213.234.10.0/30](https://stat.ripe.net/213.234.10.0%2F30#tabId=database), [92.39.108.64/28](https://stat.ripe.net/92.39.108.64%2F28#tabId=database), [188.247.44.0/22](https://stat.ripe.net/188.247.44.0%2F22#tabId=database)|http://www.mlcom.ru/|
 |Мегафон, Синтерра|[AS31133](https://stat.ripe.net/AS31133#tabId=routing)|http://volgograd.megafon.ru|
-|МТС|[AS29497](https://stat.ripe.net/AS29497#tabId=routing)(Кубань GSM), [AS51116](https://stat.ripe.net/AS51116#tabId=routing)(МКС, Мультинекс/Мультирегион)|http://www.volgograd.mts.ru/|
+|МТС|[AS8359](https://stat.ripe.net/AS8359#tabId=routing), [AS29497](https://stat.ripe.net/AS29497#tabId=routing)(Кубань GSM), [AS51116](https://stat.ripe.net/AS51116#tabId=routing)(МКС, Мультинекс/Мультирегион)|http://www.volgograd.mts.ru/|
 |Простор Телеком, ЗАО Квантум|[AS12418](https://stat.ripe.net/AS12418#tabId=routing)|http://www.quantum.ru<br/>http://www.ptl.ru|
 |Ростелеком: ЮТК, AnnexGroup, Атриком|[AS33934](https://stat.ripe.net/AS33934#tabId=routing), [AS12389](https://stat.ripe.net/AS12389#tabId=routing)|https://volgograd.rt.ru|
 |Релком||http://www.relcom.ru|
