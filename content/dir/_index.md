@@ -6,7 +6,6 @@ title = "Главный каталог"
 |Провайдер|Ресурсы|Сайт|
 |---|---|---|
 |АвантекПлюс|[46.8.33.0/24](https://stat.ripe.net/46.8.33.0%2F24#tabId=database), [217.149.180.112/30](https://stat.ripe.net/217.149.180.112%2F30#tabId=database)||
-|Альянс-Связь, Форвард|[80.69.148.0/23](https://stat.ripe.net/80.69.148.0%2F23#tabId=database), [80.69.150.0/24](https://stat.ripe.net/80.69.150.0%2F24#tabId=database), [80.69.151.0/25](https://stat.ripe.net/80.69.151.0%2F25#tabId=database)|http://www.alians-svyas.ru/|
 |Билайн, Корбина, Вымпелком, GoldenTelecom, РОЛ|[AS3216](https://stat.ripe.net/AS3216#tabId=routing), [AS840](https://stat.ripe.net/AS840#tabId=routing)|http://volgograd.beeline.ru/|
 |Вист он-лайн, Volgaspot|[AS41344](https://stat.ripe.net/AS41344#tabId=routing)|http://www.vistcom.ru/<br/>http://www.volgaspot.ru/|
 |ВолгаЛинк|[85.172.168.0/22](https://stat.ripe.net/85.172.168.0%2F22#tabId=database), [85.172.172.0/24](https://stat.ripe.net/85.172.172.0%2F24#tabId=database), [91.197.55.0/24](https://stat.ripe.net/91.197.55.0%2F24#tabId=database)|http://www.vlink.ru/|
