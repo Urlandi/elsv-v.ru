@@ -73,7 +73,7 @@
 <text text-anchor="middle" x="770.927" y="-687.411" font-family="Times New Roman,serif" font-size="14.00">ДОМ.RU</text>
 </g>
 <!-- ДомРу&#45;&gt;ЭрТелеком -->
-<g id="edge48" class="edge"><title>ДомРу&#45;&gt;ЭрТелеком</title>
+<g id="edge47" class="edge"><title>ДомРу&#45;&gt;ЭрТелеком</title>
 <path fill="none" stroke="black" d="M833.149,-691.111C854.015,-691.111 877.704,-691.111 899.979,-691.111"/>
 <ellipse fill="none" stroke="black" cx="829.142" cy="-691.111" rx="4" ry="4"/>
 <polygon fill="black" stroke="black" points="900.099,-694.611 910.099,-691.111 900.099,-687.611 900.099,-694.611"/>
@@ -181,7 +181,7 @@
 <text text-anchor="middle" x="983.812" y="-134.411" font-family="Times New Roman,serif" font-size="14.00">WestCall</text>
 </g>
 <!-- КоламбияТелеком&#45;&gt;WestCall -->
-<g id="edge50" class="edge"><title>КоламбияТелеком&#45;&gt;WestCall</title>
+<g id="edge49" class="edge"><title>КоламбияТелеком&#45;&gt;WestCall</title>
 <path fill="none" stroke="black" d="M840.012,-106.285C870.92,-113.174 906.748,-121.159 934.784,-127.407"/>
 <ellipse fill="none" stroke="black" cx="835.698" cy="-105.324" rx="4.00001" ry="4.00001"/>
 <polygon fill="black" stroke="black" points="934.215,-130.866 944.737,-129.626 935.738,-124.034 934.215,-130.866"/>
@@ -299,7 +299,7 @@
 <text text-anchor="middle" x="309.147" y="-733.411" font-family="Times New Roman,serif" font-size="14.00">Городок.Ру</text>
 </g>
 <!-- ГородокТочкаРу&#45;&gt;Унико -->
-<g id="edge56" class="edge"><title>ГородокТочкаРу&#45;&gt;Унико</title>
+<g id="edge55" class="edge"><title>ГородокТочкаРу&#45;&gt;Унико</title>
 <path fill="none" stroke="black" d="M388.255,-737.111C426.841,-737.111 472.32,-737.111 506.463,-737.111"/>
 <ellipse fill="black" stroke="black" cx="384.134" cy="-737.111" rx="4" ry="4"/>
 <polygon fill="black" stroke="black" points="506.675,-740.611 516.675,-737.111 506.675,-733.611 506.675,-740.611"/>
@@ -359,7 +359,7 @@
 <polygon fill="black" stroke="black" points="705.769,-76.5668 716.312,-75.5196 707.417,-69.7636 705.769,-76.5668"/>
 </g>
 <!-- Магистраль -->
-<g id="node43" class="node"><title>Магистраль</title>
+<g id="node42" class="node"><title>Магистраль</title>
 <polygon fill="none" stroke="black" points="380.041,-526.674 309.147,-539.111 238.253,-526.674 238.319,-506.549 379.975,-506.549 380.041,-526.674"/>
 <text text-anchor="middle" x="309.147" y="-517.411" font-family="Times New Roman,serif" font-size="14.00">Магистраль</text>
 </g>
@@ -464,7 +464,7 @@
 <text text-anchor="middle" x="558.844" y="-1039.41" font-family="Times New Roman,serif" font-size="14.00">Virgin</text>
 </g>
 <!-- Virgin&#45;&gt;Волгатранстелеком -->
-<g id="edge61" class="edge"><title>Virgin&#45;&gt;Волгатранстелеком</title>
+<g id="edge60" class="edge"><title>Virgin&#45;&gt;Волгатранстелеком</title>
 <path fill="none" stroke="black" d="M574.136,-1064.77C592.994,-1091.63 628.716,-1136.95 670.361,-1162.11 677.879,-1166.65 686.17,-1170.45 694.663,-1173.61"/>
 <ellipse fill="black" stroke="black" cx="571.763" cy="-1061.33" rx="4.00002" ry="4.00002"/>
 <polygon fill="black" stroke="black" points="693.712,-1176.99 704.306,-1176.92 695.985,-1170.36 693.712,-1176.99"/>
@@ -520,7 +520,7 @@
 <text text-anchor="middle" x="770.927" y="-633.411" font-family="Times New Roman,serif" font-size="14.00">InstrNet</text>
 </g>
 <!-- InstrNet&#45;&gt;ЭрТелеком -->
-<g id="edge49" class="edge"><title>InstrNet&#45;&gt;ЭрТелеком</title>
+<g id="edge48" class="edge"><title>InstrNet&#45;&gt;ЭрТелеком</title>
 <path fill="none" stroke="black" d="M815.18,-648.187C844.522,-655.7 883.861,-665.774 917.056,-674.274"/>
 <ellipse fill="none" stroke="black" cx="811.099" cy="-647.142" rx="4.00001" ry="4.00001"/>
 <polygon fill="black" stroke="black" points="916.587,-677.766 927.143,-676.856 918.324,-670.985 916.587,-677.766"/>
@@ -560,63 +560,52 @@
 <path fill="none" stroke="black" d="M819.499,-1041.35C898.754,-1038.41 1056.63,-1032.55 1132.96,-1029.72"/>
 <polygon fill="black" stroke="black" points="1133.31,-1033.21 1143.18,-1029.34 1133.05,-1026.21 1133.31,-1033.21"/>
 </g>
-<!-- ВистОнЛайн -->
-<g id="node38" class="node"><title>ВистОнЛайн</title>
-<polygon fill="none" stroke="black" points="385.288,-688.674 309.147,-701.111 233.006,-688.674 233.077,-668.549 385.217,-668.549 385.288,-688.674"/>
-<text text-anchor="middle" x="309.147" y="-679.411" font-family="Times New Roman,serif" font-size="14.00">ВистОнЛайн</text>
-</g>
-<!-- ВистОнЛайн&#45;&gt;Унико -->
-<g id="edge47" class="edge"><title>ВистОнЛайн&#45;&gt;Унико</title>
-<path fill="none" stroke="black" d="M369.443,-694.174C393.647,-698.848 421.878,-704.501 447.327,-710.111 470.201,-715.154 495.6,-721.319 516.275,-726.484"/>
-<ellipse fill="none" stroke="black" cx="365.327" cy="-693.383" rx="4.00001" ry="4.00001"/>
-<polygon fill="black" stroke="black" points="515.462,-729.889 526.014,-728.93 517.168,-723.099 515.462,-729.889"/>
-</g>
 <!-- SmIT34 -->
-<g id="node39" class="node"><title>SmIT34</title>
+<g id="node38" class="node"><title>SmIT34</title>
 <polygon fill="none" stroke="black" points="608.463,-96.6736 558.844,-109.111 509.225,-96.6736 509.271,-76.549 608.417,-76.549 608.463,-96.6736"/>
 <text text-anchor="middle" x="558.844" y="-87.4113" font-family="Times New Roman,serif" font-size="14.00">SmIT34</text>
 </g>
 <!-- SmIT34&#45;&gt;КоламбияТелеком -->
-<g id="edge51" class="edge"><title>SmIT34&#45;&gt;КоламбияТелеком</title>
+<g id="edge50" class="edge"><title>SmIT34&#45;&gt;КоламбияТелеком</title>
 <path fill="none" stroke="black" d="M616.631,-91.1113C631.484,-91.1113 647.981,-91.1113 664.491,-91.1113"/>
 <ellipse fill="none" stroke="black" cx="612.569" cy="-91.1114" rx="4" ry="4"/>
 <polygon fill="black" stroke="black" points="664.758,-94.6114 674.758,-91.1113 664.758,-87.6114 664.758,-94.6114"/>
 </g>
 <!-- ВолгаЛинк -->
-<g id="node40" class="node"><title>ВолгаЛинк</title>
+<g id="node39" class="node"><title>ВолгаЛинк</title>
 <polygon fill="none" stroke="black" points="1050.67,-1213.67 983.812,-1226.11 916.952,-1213.67 917.014,-1193.55 1050.61,-1193.55 1050.67,-1213.67"/>
 <text text-anchor="middle" x="983.812" y="-1204.41" font-family="Times New Roman,serif" font-size="14.00">ВолгаЛинк</text>
 </g>
 <!-- ВолгаЛинк&#45;&gt;ЮТК -->
-<g id="edge52" class="edge"><title>ВолгаЛинк&#45;&gt;ЮТК</title>
+<g id="edge51" class="edge"><title>ВолгаЛинк&#45;&gt;ЮТК</title>
 <path fill="none" stroke="black" d="M1045,-1189.52C1050.73,-1185.82 1055.95,-1181.39 1060.13,-1176.11 1118.41,-1102.59 1064.88,-1056.57 1096.13,-968.111 1109.29,-930.868 1131.56,-891.914 1149.3,-863.927"/>
 <ellipse fill="black" stroke="black" cx="1041.53" cy="-1191.53" rx="4.00002" ry="4.00002"/>
 <polygon fill="black" stroke="black" points="1152.41,-865.546 1154.88,-855.241 1146.53,-861.763 1152.41,-865.546"/>
 </g>
 <!-- Волгателком -->
-<g id="node41" class="node"><title>Волгателком</title>
+<g id="node40" class="node"><title>Волгателком</title>
 <polygon fill="none" stroke="black" points="634.378,-150.674 558.844,-163.111 483.31,-150.674 483.38,-130.549 634.308,-130.549 634.378,-150.674"/>
 <text text-anchor="middle" x="558.844" y="-141.411" font-family="Times New Roman,serif" font-size="14.00">Волгателком</text>
 </g>
 <!-- Волгателком&#45;&gt;КоламбияТелеком -->
-<g id="edge53" class="edge"><title>Волгателком&#45;&gt;КоламбияТелеком</title>
+<g id="edge52" class="edge"><title>Волгателком&#45;&gt;КоламбияТелеком</title>
 <path fill="none" stroke="black" d="M624.573,-128.473C649.643,-122.029 678.324,-114.657 703.548,-108.173"/>
 <ellipse fill="black" stroke="black" cx="620.569" cy="-129.502" rx="4.00001" ry="4.00001"/>
 <polygon fill="black" stroke="black" points="704.58,-111.522 713.394,-105.643 702.838,-104.742 704.58,-111.522"/>
 </g>
 <!-- ИнсаткомВ -->
-<g id="node42" class="node"><title>ИнсаткомВ</title>
+<g id="node41" class="node"><title>ИнсаткомВ</title>
 <polygon fill="none" stroke="black" points="1245.35,-1419.67 1177.27,-1432.11 1109.2,-1419.67 1109.26,-1399.55 1245.28,-1399.55 1245.35,-1419.67"/>
 <text text-anchor="middle" x="1177.27" y="-1410.41" font-family="Times New Roman,serif" font-size="14.00">ИнсаткомВ</text>
 </g>
 <!-- ИнсаткомВ&#45;&gt;Ростелеком -->
-<g id="edge54" class="edge"><title>ИнсаткомВ&#45;&gt;Ростелеком</title>
+<g id="edge53" class="edge"><title>ИнсаткомВ&#45;&gt;Ростелеком</title>
 <path fill="none" stroke="black" d="M1240.76,-1395.69C1247.28,-1391.95 1253.35,-1387.47 1258.41,-1382.11 1341.44,-1294.22 1362.35,-1142.27 1367.54,-1079.5"/>
 <ellipse fill="black" stroke="black" cx="1237.09" cy="-1397.62" rx="4.00002" ry="4.00002"/>
 <polygon fill="black" stroke="black" points="1371.05,-1079.43 1368.31,-1069.19 1364.07,-1078.9 1371.05,-1079.43"/>
 </g>
 <!-- Магистраль&#45;&gt;Унико -->
-<g id="edge55" class="edge"><title>Магистраль&#45;&gt;Унико</title>
+<g id="edge54" class="edge"><title>Магистраль&#45;&gt;Унико</title>
 <path fill="none" stroke="black" d="M387.819,-524.832C408.591,-528.783 430.048,-535.828 447.327,-548.111 462.243,-558.715 517.264,-660.329 543.606,-710.019"/>
 <ellipse fill="black" stroke="black" cx="383.843" cy="-524.146" rx="4.00001" ry="4.00001"/>
 <polygon fill="black" stroke="black" points="540.555,-711.736 548.323,-718.941 546.743,-708.464 540.555,-711.736"/>
@@ -640,48 +629,59 @@
 <ellipse fill="none" stroke="black" cx="938.424" cy="-176.202" rx="4.00001" ry="4.00001"/>
 </g>
 <!-- ФорумNet -->
-<g id="node44" class="node"><title>ФорумNet</title>
-<polygon fill="none" stroke="black" points="370.867,-634.674 309.147,-647.111 247.427,-634.674 247.485,-614.549 370.809,-614.549 370.867,-634.674"/>
-<text text-anchor="middle" x="309.147" y="-625.411" font-family="Times New Roman,serif" font-size="14.00">ФорумNet</text>
+<g id="node43" class="node"><title>ФорумNet</title>
+<polygon fill="none" stroke="black" points="370.867,-688.674 309.147,-701.111 247.427,-688.674 247.485,-668.549 370.809,-668.549 370.867,-688.674"/>
+<text text-anchor="middle" x="309.147" y="-679.411" font-family="Times New Roman,serif" font-size="14.00">ФорумNet</text>
 </g>
 <!-- ФорумNet&#45;&gt;Унико -->
-<g id="edge57" class="edge"><title>ФорумNet&#45;&gt;Унико</title>
-<path fill="none" stroke="black" d="M377.55,-636.356C400.36,-640.365 425.554,-646.56 447.327,-656.111 478.813,-669.924 509.974,-693.959 531.141,-712.271"/>
-<ellipse fill="black" stroke="black" cx="373.536" cy="-635.686" rx="4.00001" ry="4.00001"/>
-<polygon fill="black" stroke="black" points="528.929,-714.987 538.744,-718.976 533.559,-709.737 528.929,-714.987"/>
+<g id="edge56" class="edge"><title>ФорумNet&#45;&gt;Унико</title>
+<path fill="none" stroke="black" d="M364.31,-693.186C389.591,-698.038 420.056,-704.1 447.327,-710.111 470.201,-715.154 495.6,-721.319 516.275,-726.484"/>
+<ellipse fill="black" stroke="black" cx="360.224" cy="-692.405" rx="4.00001" ry="4.00001"/>
+<polygon fill="black" stroke="black" points="515.462,-729.889 526.014,-728.93 517.168,-723.099 515.462,-729.889"/>
 </g>
 <!-- ByteS -->
-<g id="node45" class="node"><title>ByteS</title>
-<polygon fill="none" stroke="black" points="349.485,-580.674 309.147,-593.111 268.809,-580.674 268.846,-560.549 349.447,-560.549 349.485,-580.674"/>
-<text text-anchor="middle" x="309.147" y="-571.411" font-family="Times New Roman,serif" font-size="14.00">ByteS</text>
+<g id="node44" class="node"><title>ByteS</title>
+<polygon fill="none" stroke="black" points="349.485,-634.674 309.147,-647.111 268.809,-634.674 268.846,-614.549 349.447,-614.549 349.485,-634.674"/>
+<text text-anchor="middle" x="309.147" y="-625.411" font-family="Times New Roman,serif" font-size="14.00">ByteS</text>
 </g>
 <!-- ByteS&#45;&gt;Унико -->
-<g id="edge58" class="edge"><title>ByteS&#45;&gt;Унико</title>
-<path fill="none" stroke="black" d="M357.357,-576.504C385.221,-579.175 420.223,-585.881 447.327,-602.111 491.13,-628.342 525.164,-678.56 543.303,-709.803"/>
-<ellipse fill="black" stroke="black" cx="353.315" cy="-576.162" rx="4" ry="4"/>
-<polygon fill="black" stroke="black" points="540.446,-711.861 548.415,-718.843 546.539,-708.415 540.446,-711.861"/>
+<g id="edge57" class="edge"><title>ByteS&#45;&gt;Унико</title>
+<path fill="none" stroke="black" d="M357.537,-633.269C384.697,-636.903 418.924,-643.651 447.327,-656.111 478.813,-669.924 509.974,-693.959 531.141,-712.271"/>
+<ellipse fill="black" stroke="black" cx="353.318" cy="-632.738" rx="4.00001" ry="4.00001"/>
+<polygon fill="black" stroke="black" points="528.929,-714.987 538.744,-718.976 533.559,-709.737 528.929,-714.987"/>
 </g>
 <!-- АвантекПлюс -->
-<g id="node46" class="node"><title>АвантекПлюс</title>
-<polygon fill="none" stroke="black" points="388.715,-888.674 309.147,-901.111 229.579,-888.674 229.653,-868.549 388.64,-868.549 388.715,-888.674"/>
-<text text-anchor="middle" x="309.147" y="-879.411" font-family="Times New Roman,serif" font-size="14.00">АвантекПлюс</text>
+<g id="node45" class="node"><title>АвантекПлюс</title>
+<polygon fill="none" stroke="black" points="388.715,-580.674 309.147,-593.111 229.579,-580.674 229.653,-560.549 388.64,-560.549 388.715,-580.674"/>
+<text text-anchor="middle" x="309.147" y="-571.411" font-family="Times New Roman,serif" font-size="14.00">АвантекПлюс</text>
 </g>
 <!-- АвантекПлюс&#45;&gt;Унико -->
-<g id="edge59" class="edge"><title>АвантекПлюс&#45;&gt;Унико</title>
-<path fill="none" stroke="black" d="M396.921,-874.569C414.33,-870.542 431.973,-864.666 447.327,-856.111 487.554,-833.698 521.435,-791.447 540.695,-763.794"/>
-<ellipse fill="black" stroke="black" cx="392.857" cy="-875.447" rx="4.00001" ry="4.00001"/>
-<polygon fill="black" stroke="black" points="543.693,-765.609 546.424,-755.372 537.905,-761.672 543.693,-765.609"/>
+<g id="edge58" class="edge"><title>АвантекПлюс&#45;&gt;Унико</title>
+<path fill="none" stroke="black" d="M396.096,-582.631C413.883,-586.71 431.887,-592.865 447.327,-602.111 491.13,-628.342 525.164,-678.56 543.303,-709.803"/>
+<ellipse fill="black" stroke="black" cx="391.862" cy="-581.731" rx="4.00001" ry="4.00001"/>
+<polygon fill="black" stroke="black" points="540.446,-711.861 548.415,-718.843 546.539,-708.415 540.446,-711.861"/>
 </g>
 <!-- Robor -->
-<g id="node47" class="node"><title>Robor</title>
+<g id="node46" class="node"><title>Robor</title>
 <polygon fill="none" stroke="black" points="1219.93,-492.674 1177.27,-505.111 1134.62,-492.674 1134.66,-472.549 1219.89,-472.549 1219.93,-492.674"/>
 <text text-anchor="middle" x="1177.27" y="-483.411" font-family="Times New Roman,serif" font-size="14.00">Robor</text>
 </g>
 <!-- Robor&#45;&gt;Транстелеком -->
-<g id="edge60" class="edge"><title>Robor&#45;&gt;Транстелеком</title>
+<g id="edge59" class="edge"><title>Robor&#45;&gt;Транстелеком</title>
 <path fill="none" stroke="black" d="M1227.95,-471.501C1254.43,-463.179 1287.08,-452.922 1314.31,-444.364"/>
 <ellipse fill="black" stroke="black" cx="1223.99" cy="-472.745" rx="4.00001" ry="4.00001"/>
 <polygon fill="black" stroke="black" points="1315.59,-447.632 1324.08,-441.295 1313.49,-440.954 1315.59,-447.632"/>
+</g>
+<!-- ВистОнЛайн -->
+<g id="node47" class="node"><title>ВистОнЛайн</title>
+<polygon fill="none" stroke="black" points="385.288,-888.674 309.147,-901.111 233.006,-888.674 233.077,-868.549 385.217,-868.549 385.288,-888.674"/>
+<text text-anchor="middle" x="309.147" y="-879.411" font-family="Times New Roman,serif" font-size="14.00">ВистОнЛайн</text>
+</g>
+<!-- ВистОнЛайн&#45;&gt;Унико -->
+<g id="edge61" class="edge"><title>ВистОнЛайн&#45;&gt;Унико</title>
+<path fill="none" stroke="black" d="M393.299,-875.381C411.869,-871.344 430.907,-865.26 447.327,-856.111 487.554,-833.698 521.435,-791.447 540.695,-763.794"/>
+<ellipse fill="black" stroke="black" cx="389.298" cy="-876.193" rx="4.00001" ry="4.00001"/>
+<polygon fill="black" stroke="black" points="543.693,-765.609 546.424,-755.372 537.905,-761.672 543.693,-765.609"/>
 </g>
 <!-- ИнформационныйСервис -->
 <g id="node48" class="node"><title>ИнформационныйСервис</title>
