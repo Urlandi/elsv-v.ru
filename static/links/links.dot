@@ -164,7 +164,6 @@ Comrise -> Унико;
 Comrise -> Powernet;
 
 Powernet -> ЭрТелеком;
-Powernet -> Евротелеком;
 
 КоламбияТелеком -> Евротелеком;
 
