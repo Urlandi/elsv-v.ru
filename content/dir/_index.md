@@ -16,7 +16,6 @@ title = "Главный каталог"
 |Инсатком-В|[92.50.201.0/24](https://stat.ripe.net/92.50.201.0%2F24#tabId=database)|http://www.insatcom-v.ru/|
 |Информационный сервис||http://informservice.it/|
 |Квант-Телеком|[AS43727](https://stat.ripe.net/AS43727#tabId=routing)|https://kvant-telecom.ru/|
-|Коламбия Телеком, nextOne, Волготелком|[AS31585](https://stat.ripe.net/AS31585#tabId=routing)|http://www.coltel.ru/<br/>http://www.next-one.ru/<br/>http://www.vgtk.ru/|
 |Магистраль|[92.39.105.24/30](https://stat.ripe.net/92.39.105.24%2F30#tabId=database), [92.39.108.64/28](https://stat.ripe.net/92.39.108.64%2F28#tabId=database), [188.247.44.0/22](https://stat.ripe.net/188.247.44.0%2F22#tabId=database)|http://www.mlcom.ru/|
 |Мегафон, Синтерра|[AS31133](https://stat.ripe.net/AS31133#tabId=routing)|http://volgograd.megafon.ru|
 |МТС, МКС (Мультинекс/Мультирегион)|[AS51116](https://stat.ripe.net/AS51116#tabId=routing)|http://www.volgograd.mts.ru/|
@@ -33,7 +32,7 @@ title = "Главный каталог"
 |ФорумNet||http://www.forum-net.ru/|
 |Энфорта|[AS12772](https://stat.ripe.net/AS12772#tabId=routing)|[http://www.enforta.ru/](http://www.enforta.ru/geography/russia/volgograd.html)|
 |Электронные Радио Оптические Системы (ЭРОС)|[AS198778](https://stat.ripe.net/AS198778#tabId=routing)|http://www.eros-tv.ru/|
-|ДОМ.RU, ЭР-Телеком|[AS39435](https://stat.ripe.net/AS39435#tabId=routing),[AS9049](https://stat.ripe.net/AS9049#tabId=routing)|http://volgograd.domru.ru<br/>http://www.ertelecom.ru|
+|ДОМ.RU, ЭР-Телеком|[AS39435](https://stat.ripe.net/AS39435#tabId=routing), [AS31585](https://stat.ripe.net/AS31585#tabId=routing)(Коламбия Телеком, nextOne, Волготелком), [AS9049](https://stat.ripe.net/AS9049#tabId=routing)|http://volgograd.domru.ru<br/>http://www.ertelecom.ru|
 |Byte-S|[92.39.110.0/24](https://stat.ripe.net/92.39.110.0%2F24#tabId=database), [213.234.6.0/24](https://stat.ripe.net/213.234.6.0%2F24#tabId=database), [217.149.184.88/30](https://stat.ripe.net/217.149.184.88%2F30#tabId=database)|http://www.byte-s.ru/|
 |Comrise, Современные Технологии Связи|[AS43801](https://stat.ripe.net/AS43801#tabId=routing), [AS42412](https://stat.ripe.net/AS42412#tabId=routing)|http://www.comrise.ru/|
 |INSTR.net|[AS198619](https://stat.ripe.net/AS198619#tabId=routing)|http://www.instr-net.ru/|
