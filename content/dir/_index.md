@@ -13,7 +13,7 @@ title = "Главный каталог"
 |Восток|[AS203563](https://stat.ripe.net/AS203563#tabId=routing)||
 |Городок точка РУ|[91.235.221.0/24](https://stat.ripe.net/91.235.221.0%2F24#tabId=database), [188.247.55.0/24](https://stat.ripe.net/188.247.55.0%2F24#tabId=database)|http://www.gorodok-ru.ru/|
 |Евротелеком, Motus-Telecom, OKline|[AS34804](https://stat.ripe.net/AS34804#tabId=routing)|http://www.okline.pro/|
-|Инсатком-В|[92.50.201.0/24](https://stat.ripe.net/92.50.201.0%2F24#tabId=database), [94.25.128.0/26](https://stat.ripe.net/94.25.128.0%2F26#tabId=database)|http://www.insatcom-v.ru/|
+|Инсатком-В|[92.50.201.0/24](https://stat.ripe.net/92.50.201.0%2F24#tabId=database)|http://www.insatcom-v.ru/|
 |Информационный сервис||http://www.is.vgg.ru/|
 |Квант-Телеком||http://www.kvant-telecom.ru/|
 |Коламбия Телеком, nextOne, Волготелком|[AS31585](https://stat.ripe.net/AS31585#tabId=routing)|http://www.coltel.ru/<br/>http://www.next-one.ru/<br/>http://www.vgtk.ru/|
