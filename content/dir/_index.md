@@ -29,7 +29,6 @@ title = "Главный каталог"
 |ТСвязь, ООО "Технологии Связи"|[AS201593](https://stat.ripe.net/AS201593#tabId=routing)|http://www.mihtv.ru/|
 |Унико|[AS39442](https://stat.ripe.net/AS39442#tabId=routing)|http://www.unico.com.ru/|
 |Экспилайн|[AS15741](https://stat.ripe.net/AS15741#tabId=routing)|http://www.expiline.ru<br/>http://www.cyber-house.net|
-|ФорумNet||http://www.forum-net.ru/|
 |Энфорта|[AS12772](https://stat.ripe.net/AS12772#tabId=routing)|[http://www.enforta.ru/](http://www.enforta.ru/geography/russia/volgograd.html)|
 |Электронные Радио Оптические Системы (ЭРОС)|[AS198778](https://stat.ripe.net/AS198778#tabId=routing)|http://www.eros-tv.ru/|
 |ДОМ.RU, ЭР-Телеком|[AS39435](https://stat.ripe.net/AS39435#tabId=routing), [AS31585](https://stat.ripe.net/AS31585#tabId=routing)(Коламбия Телеком, nextOne, Волготелком), [AS9049](https://stat.ripe.net/AS9049#tabId=routing)|http://volgograd.domru.ru<br/>http://www.ertelecom.ru|
