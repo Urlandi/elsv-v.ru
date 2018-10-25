@@ -19,13 +19,13 @@ title = "Главный каталог"
 |Магистраль|[92.39.105.24/30](https://stat.ripe.net/92.39.105.24%2F30#tabId=database), [213.234.10.0/30](https://stat.ripe.net/213.234.10.0%2F30#tabId=database), [92.39.108.64/28](https://stat.ripe.net/92.39.108.64%2F28#tabId=database), [188.247.44.0/22](https://stat.ripe.net/188.247.44.0%2F22#tabId=database)|http://www.mlcom.ru/|
 |Мегафон, Синтерра|[AS31133](https://stat.ripe.net/AS31133#tabId=routing)|http://volgograd.megafon.ru|
 |МТС|[AS8359](https://stat.ripe.net/AS8359#tabId=routing), [AS29497](https://stat.ripe.net/AS29497#tabId=routing)(Кубань GSM), [AS51116](https://stat.ripe.net/AS51116#tabId=routing)(МКС, Мультинекс/Мультирегион)|http://www.volgograd.mts.ru/|
-|Простор Телеком, ЗАО Квантум|[AS12418](https://stat.ripe.net/AS12418#tabId=routing)|http://www.quantum.ru<br/>http://www.ptl.ru|
+|Простор Телеком, ЗАО Квантум|[AS12418](https://stat.ripe.net/AS12418#tabId=routing)|http://www.ptl.ru|
 |Ростелеком: ЮТК, AnnexGroup, Атриком|[AS33934](https://stat.ripe.net/AS33934#tabId=routing), [AS12389](https://stat.ripe.net/AS12389#tabId=routing)|https://volgograd.rt.ru|
-|Релком||http://www.relcom.ru|
+|Релком|[AS2118]((https://stat.ripe.net/AS2118#tabId=routing))|http://www.relcom.ru|
 |Связьинформ, Most|[AS39707](https://stat.ripe.net/AS39707#tabId=routing)|http://www.mostnet.ru/|
 |Спринт Сеть|[AS24787](https://stat.ripe.net/AS24787#tabId=routing)|http://www.sprint-v.com.ru/|
-|Старнет, ЗАО "Группа Тауэр-Телеком"|[AS47844](https://stat.ripe.net/AS47844#tabId=routing),[AS50559](https://stat.ripe.net/AS50559#tabId=routing)|http://www.ahtuba.com<br/>http://ahtuba.tv|
-|Транстелеком, Волгатранстелеком, ТТК|[AS15974](https://stat.ripe.net/AS15974#tabId=routing),[AS20485](https://stat.ripe.net/AS20485#tabId=routing)|http://volgograd.myttk.ru/|
+|Старнет, ЗАО "Группа Тауэр-Телеком"|[AS47844](https://stat.ripe.net/AS47844#tabId=routing), [AS50559](https://stat.ripe.net/AS50559#tabId=routing)|http://www.ahtuba.com|
+|Транстелеком, Волгатранстелеком, ТТК|[AS15974](https://stat.ripe.net/AS15974#tabId=routing), [AS20485](https://stat.ripe.net/AS20485#tabId=routing)|http://volgograd.myttk.ru/|
 |ТСвязь, ООО "Технологии Связи"|[AS201593](https://stat.ripe.net/AS201593#tabId=routing)|http://www.mihtv.ru/|
 |Унико|[AS39442](https://stat.ripe.net/AS39442#tabId=routing)|http://www.unico.com.ru/|
 |Экспилайн|[AS15741](https://stat.ripe.net/AS15741#tabId=routing)|http://www.expiline.ru<br/>http://www.cyber-house.net|
