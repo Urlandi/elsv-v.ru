@@ -417,15 +417,15 @@
 <path fill="none" stroke="black" d="M822.152,-280.595C856.387,-288.823 908.282,-301.294 946.169,-310.4"/>
 <polygon fill="black" stroke="black" points="945.427,-313.821 955.968,-312.755 947.063,-307.015 945.427,-313.821"/>
 </g>
-<!-- Smit34 -->
-<g id="node36" class="node"><title>Smit34</title>
-<polygon fill="none" stroke="black" points="830.365,-731.562 785.387,-744 740.409,-731.562 740.451,-711.438 830.323,-711.438 830.365,-731.562"/>
-<text text-anchor="middle" x="785.387" y="-722.3" font-family="Times New Roman,serif" font-size="14.00">Smit34</text>
+<!-- SmIT34 -->
+<g id="node36" class="node"><title>SmIT34</title>
+<polygon fill="none" stroke="black" points="835.006,-731.562 785.387,-744 735.768,-731.562 735.815,-711.438 834.96,-711.438 835.006,-731.562"/>
+<text text-anchor="middle" x="785.387" y="-722.3" font-family="Times New Roman,serif" font-size="14.00">SmIT34</text>
 </g>
-<!-- Smit34&#45;&gt;ЭрТелеком -->
-<g id="edge23" class="edge"><title>Smit34&#45;&gt;ЭрТелеком</title>
-<path fill="none" stroke="black" d="M830.509,-716.881C858.278,-711.142 894.686,-703.617 926.136,-697.117"/>
-<polygon fill="black" stroke="black" points="927.071,-700.497 936.155,-695.046 925.654,-693.642 927.071,-700.497"/>
+<!-- SmIT34&#45;&gt;ЭрТелеком -->
+<g id="edge23" class="edge"><title>SmIT34&#45;&gt;ЭрТелеком</title>
+<path fill="none" stroke="black" d="M835.166,-715.918C862.25,-710.321 896.374,-703.268 926.081,-697.128"/>
+<polygon fill="black" stroke="black" points="926.886,-700.536 935.97,-695.084 925.469,-693.681 926.886,-700.536"/>
 </g>
 <!-- Старнет -->
 <g id="node37" class="node"><title>Старнет</title>
