@@ -31,7 +31,7 @@ title = "Главный каталог"
 |Экспилайн|[AS15741](https://stat.ripe.net/AS15741#tabId=routing)|http://www.expiline.ru<br/>http://www.cyber-house.net|
 |Электронные Радио Оптические Системы (ЭРОС)|[AS198778](https://stat.ripe.net/AS198778#tabId=routing)|http://www.eros-tv.ru/|
 |ДОМ.RU, ЭР-Телеком|[AS39435](https://stat.ripe.net/AS39435#tabId=routing), [AS31585](https://stat.ripe.net/AS31585#tabId=routing)(Коламбия Телеком, nextOne, Волготелком), [AS12772](https://stat.ripe.net/AS12772#tabId=routing)([Энфорта](http://www.enforta.ru/geography/russia/volgograd.html)), [AS9049](https://stat.ripe.net/AS9049#tabId=routing)|http://volgograd.domru.ru<br/>http://www.ertelecom.ru|
-|Byte-S|[92.39.110.0/24](https://stat.ripe.net/92.39.110.0%2F24#tabId=database), [213.234.6.0/24](https://stat.ripe.net/213.234.6.0%2F24#tabId=database), [217.149.184.88/30](https://stat.ripe.net/217.149.184.88%2F30#tabId=database)|http://www.byte-s.ru/|
+|Byte-S|[92.39.110.0/24](https://stat.ripe.net/92.39.110.0%2F24#tabId=database), [213.234.6.0/24](https://stat.ripe.net/213.234.6.0%2F24#tabId=database), [217.149.184.88/30](https://stat.ripe.net/217.149.184.88%2F30#tabId=database), [217.149.190.136/30](https://stat.ripe.net/217.149.190.136%2F30#tabId=database)|http://www.byte-s.ru/|
 |Comrise, Современные Технологии Связи|[AS43801](https://stat.ripe.net/AS43801#tabId=routing), [AS42412](https://stat.ripe.net/AS42412#tabId=routing)|http://www.comrise.ru/|
 |INSTR.net|[AS198619](https://stat.ripe.net/AS198619#tabId=routing)|http://www.instr-net.ru/|
 |Orange Business Services, Эквант|[AS2854](https://stat.ripe.net/AS2854#tabId=routing)|http://www.orange-business.com/|
