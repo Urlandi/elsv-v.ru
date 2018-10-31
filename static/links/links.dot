@@ -5,7 +5,7 @@ node [shape=house;];
 
 Унико, ДомРу, ЭрТелеком, Транстелеком, Волгатранстелеком, Релком [shape=hexagon;];
 Мегафон, Вымпелком, КоламбияТелеком, Ростелеком, HE, КвантТелеком [shape=hexagon;];
-Tele2, МТС, ЮТК, Orange, ПросторТелеком, WestCall, Powernet, RETN [shape=hexagon;];
+Tele2, МТС, ЮТК, Orange, ПросторТелеком, WestCall, RETN [shape=hexagon;];
 
 ДомРу [label="ДОМ.RU"];
 ЭрТелеком [label="ЭР-Телеком\nтранзит"];
@@ -65,7 +65,6 @@ Comrise -> Ростелеком;
 Comrise -> Вымпелком;
 
 Powernet -> Мегафон;
-Powernet -> Вымпелком;
 
 Евротелеком -> Транстелеком;
 Евротелеком -> Вымпелком;
@@ -100,7 +99,6 @@ edge [dir=both; arrowtail=odot;];
 Старнет -> ЭрТелеком;
 
 Powernet -> Унико;
-Унико -> Powernet;
 
 ЮТК -> Ростелеком;
 
