@@ -38,7 +38,7 @@ title = "Главный каталог"
 |Powernet|[AS51032](https://stat.ripe.net/AS51032#tabId=routing)|https://www.powernet.com.ru/|
 |RETN|[AS9002](https://stat.ripe.net/AS9002#tabId=routing)|http://retn.net/|
 |Robor|[83.234.21.0/24](https://stat.ripe.net/83.234.21.0%2F24#tabId=database)|http://www.robornet.ru/|
-|T2 Mobile (Tele2), СМАРТС (Волгоград-GSM), SkyLink|[AS34287](https://stat.ripe.net/AS34287#tabId=routing), [AS42703](https://stat.ripe.net/AS42703#tabId=routing)|http://volgograd.tele2.ru/|
+|T2 Mobile (Tele2), SkyLink|[AS34287](https://stat.ripe.net/AS34287#tabId=routing)(СМАРТС, Волгоград-GSM), [AS12958](https://stat.ripe.net/AS12958#tabId=routing)|http://volgograd.tele2.ru/|
 |Virgin, Unitline, Медиасети|[AS44844](https://stat.ripe.net/AS44844#tabId=routing)|http://volg.virginconnect.ru<br/>http://unitline.ru|
 |WestCall|[AS8595](https://stat.ripe.net/AS8595#tabId=routing)|http://www.westcall.ru/|
 |WMAX, ООО "Беллерофонт", группа компаний "Интерактивные технологии"|[AS201969](https://stat.ripe.net/AS201969#tabId=routing), [AS206367](https://stat.ripe.net/AS206367#tabId=routing)|http://www.wmax.pro<br/>http://www.it-g.ru|
