@@ -38,6 +38,8 @@ title = "Главный каталог"
 |Powernet|[AS51032](https://stat.ripe.net/AS51032#tabId=routing)|https://www.powernet.com.ru/|
 |RETN|[AS9002](https://stat.ripe.net/AS9002#tabId=routing)|http://retn.net/|
 |Robor|[83.234.21.0/24](https://stat.ripe.net/83.234.21.0%2F24#tabId=database)|http://www.robornet.ru/|
+|Smit34|[AS201282](https://stat.ripe.net/AS201282#tabId=routing)|https://www.smit34.ru|
+|STARLINE|[188.233.189.100/32](https://stat.ripe.net/188.233.189.100%2F32#tabId=database)|http://starline.pro/|
 |T2 Mobile (Tele2), SkyLink|[AS34287](https://stat.ripe.net/AS34287#tabId=routing)(СМАРТС, Волгоград-GSM), [AS12958](https://stat.ripe.net/AS12958#tabId=routing)|http://volgograd.tele2.ru/|
 |Virgin Connect, Unitline, ЗАО Медиасети|[AS44844](https://stat.ripe.net/AS44844#tabId=routing)|http://virginconnect.ru/|
 |WestCall|[AS8595](https://stat.ripe.net/AS8595#tabId=routing)|http://www.westcall.ru/|
