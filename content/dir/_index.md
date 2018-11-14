@@ -44,3 +44,5 @@ title = "Главный каталог"
 |Virgin Connect, Unitline, ЗАО Медиасети|[AS44844](https://stat.ripe.net/AS44844#tabId=routing)|http://virginconnect.ru/|
 |WestCall|[AS8595](https://stat.ripe.net/AS8595#tabId=routing)|http://www.westcall.ru/|
 |WMAX, ООО "Беллерофонт", группа компаний "Интерактивные технологии" (вероятно деятельность прекращена)|[AS201969](https://stat.ripe.net/AS201969#tabId=routing), [AS206367](https://stat.ripe.net/AS206367#tabId=routing)|http://www.it-g.ru/|
+
+[Вариант списка от Роскомнадзора](rkn/)
