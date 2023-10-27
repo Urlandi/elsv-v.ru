@@ -6,7 +6,7 @@ theme = "hugo-xmin"
 publishDir = "docs"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-disableKinds = ["taxonomy", "taxonomyTerms", "RSS"]
+disableKinds = ["taxonomy", "RSS"]
 preserveTaxonomyNames = false
 footnotereturnlinkcontents = ""
 

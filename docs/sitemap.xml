@@ -1,99 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://www.elsv-v.ru/dir/rkn/volgograd-isp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/arp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/bgp/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/wiki/guides/lookingglass/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/wiki/guides/ris/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/wiki/tools/traceinfo/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.elsv-v.ru/wiki/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/ipconfig/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.elsv-v.ru/wiki/guides/lookingglass/</loc>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/ping/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.elsv-v.ru/wiki/guides/ris/</loc>
+  </url><url>
+    <loc>http://www.elsv-v.ru/wiki/tools/traceinfo/</loc>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/traceroute/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.elsv-v.ru/wiki/</loc>
+  </url><url>
     <loc>http://www.elsv-v.ru/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/dir/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/links/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/vlan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/plans/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/ripedb/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/manifest/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/stp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/dir/rkn/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.elsv-v.ru/wiki/guides/shaper/</loc>
   </url>
-  
 </urlset>
