@@ -44,3 +44,6 @@ footnotereturnlinkcontents = ""
 
 [blackfriday]
   smartypants = false
+
+[markup.goldmark.renderer]
+    unsafe = true
