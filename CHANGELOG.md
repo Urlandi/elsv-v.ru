@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased] - 2018-10-07
 ### Added
 - Начальная версия
+### Changed
+- Удалён реестр инфраструктуры связи Роскомнадзора
 
 [Unreleased]: https://github.com/urlandi/elsv-v.ru
 
